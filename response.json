@@ -1,0 +1,10 @@
+{
+    "response": "OK",
+    "chain": "polygon",
+    "contract_address": "0x6fdfe7feec201a840bd4709bbb8e0d2aa0a1ae53",
+    "transaction_hash": "0x34dd7d6087ebb3228f50e56f56a5405f49e04fba98b68ff38f37c958c7bd2702",
+    "transaction_external_url": "https://polygonscan.com/tx/0x34dd7d6087ebb3228f50e56f56a5405f49e04fba98b68ff38f37c958c7bd2702",
+    "mint_to_address": "0x667228c6EAa9C9cc180B236850aA54197CC7a2e9",
+    "name": "NFT_Name",
+    "description": "NFT_Description"
+}

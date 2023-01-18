@@ -1,0 +1,10 @@
+{
+    "response": "OK",
+    "chain": "polygon",
+    "contract_address": "0x6fdfe7feec201a840bd4709bbb8e0d2aa0a1ae53",
+    "transaction_hash": "0x0e604091e04317df4f3a7f7f97cc38321aacfe47eacd08f4fb188adf74ab25fe",
+    "transaction_external_url": "https://polygonscan.com/tx/0x0e604091e04317df4f3a7f7f97cc38321aacfe47eacd08f4fb188adf74ab25fe",
+    "mint_to_address": "0x667228c6EAa9C9cc180B236850aA54197CC7a2e9",
+    "name": "sample2",
+    "description": "second trial to upload image"
+}
